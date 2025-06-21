@@ -1,3 +1,9 @@
+> Forking this project to play around with some ideas. Might deviate wildly from the original project.
+> 
+> `:)` - Will Garrison
+
+---
+
 <p>
   <a href="https://picocss.com" target="_blank">
     <picture>
