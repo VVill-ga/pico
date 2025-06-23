@@ -10,9 +10,6 @@
 @use "layout/document"; // html
 @use "layout/landmarks"; // body, header, main, footer
 @use "layout/section"; // section
-@use "layout/container"; // .container, .container-fluid
-@use "layout/grid"; // .grid
-@use "layout/overflow-auto"; // .overflow-auto
 
 // Content
 @use "content/typography"; // headings, p, ul, blockquote, ...
@@ -36,7 +33,6 @@
 // Components
 @use "components/accordion"; // details, summary
 @use "components/card"; // article
-@use "components/dropdown"; // details.dropdown
 @use "components/group"; // role="group"
 @use "components/loading"; // aria-busy=true
 @use "components/modal"; // dialog
